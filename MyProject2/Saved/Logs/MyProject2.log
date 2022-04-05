@@ -3524,3 +3524,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.05-20.10.20:278][216]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.05-20.10.20:278][216]LogContentValidation: Display: Validating World /Game/Mapas/MapaUniversidad.MapaUniversidad
 [2022.04.05-20.10.20:278][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/MapaUniversidad_BuiltData.MapaUniversidad_BuiltData
+[2022.04.05-20.14.16:684][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.05-20.14.16:690][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.05-20.14.16:691][ 65]PIE: New page: Sesión PIE (reproducción en el editor): MapaUniversidad (5/04/2022, 10:14:16 a. m.)
+[2022.04.05-20.14.16:691][ 65]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_MapaUniversidad
+[2022.04.05-20.14.16:716][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024717s)
+[2022.04.05-20.14.16:717][ 65]LogAIModule: Creating AISystem for world MapaUniversidad
+[2022.04.05-20.14.16:717][ 65]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2022.04.05-20.14.16:717][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/MapaUniversidad.MapaUniversidad to /Game/Mapas/UEDPIE_0_MapaUniversidad.MapaUniversidad (0.025864s)
+[2022.04.05-20.14.16:767][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.04.05-20.14.16:768][ 65]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.05-20.14.16:769][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.05-20.14.16:769][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.05-20.14.16:769][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.05-20.14.16:769][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.05-20.14.16:769][ 65]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.05-20.14.16:774][ 65]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.05-20.14.16:774][ 65]LogAudioMixer: Display: 1: FrontRight
+[2022.04.05-20.14.16:790][ 65]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.05-20.14.16:790][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.05-20.14.16:790][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.05-20.14.16:790][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.05-20.14.16:790][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.05-20.14.16:790][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.05-20.14.16:790][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.05-20.14.16:791][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.05-20.14.16:792][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.05-20.14.16:792][ 65]LogInit: FAudioDevice initialized.
+[2022.04.05-20.14.16:792][ 65]LogAudio: Display: Audio Device (ID: 40) registered with world 'MapaUniversidad'.
+[2022.04.05-20.14.16:800][ 65]LogLoad: Game class is 'ModoJuego1_C'
+[2022.04.05-20.14.16:803][ 65]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_MapaUniversidad.MapaUniversidad up for play (max tick rate 0) at 2022.04.05-15.14.16
+[2022.04.05-20.14.16:803][ 65]LogWorld: Bringing up level for play took: 0.001714
+[2022.04.05-20.14.16:803][ 65]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.04.05-20.14.16:805][ 65]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.05-20.14.16:805][ 65]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.05-20.14.16:805][ 65]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.05-20.14.16:806][ 65]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.05-20.14.16:806][ 65]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.05-20.14.16:806][ 65]PIE: El servidor ha iniciado la sesión
+[2022.04.05-20.14.16:807][ 65]PIE: Play in editor total start time 0,118 seconds.
+[2022.04.05-20.14.19:404][191]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.05-20.14.22:034][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.05-20.14.22:034][335]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_MapaUniversidad
+[2022.04.05-20.14.22:034][335]LogWorld: UWorld::CleanupWorld for MapaUniversidad, bSessionEnded=true, bCleanupResources=true
+[2022.04.05-20.14.22:035][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.05-20.14.22:043][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.05-20.14.22:059][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.05-20.14.22:095][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.05-20.14.22:095][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.05-20.14.22:096][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.05-20.14.22:109][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.04.05-20.14.22:151][336]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.04.05-20.16.00:460][ 10]LogSavePackage: Moving 'D:/Documentos/Universidad/9no Semestre/Aplicaciones 3D/Proyecto/Aplicaciones_3D/MyProject2/Saved/Camera_widgetAD34144444DEF69B7350419361150BB0.tmp' to 'D:/Documentos/Universidad/9no Semestre/Aplicaciones 3D/Proyecto/Aplicaciones_3D/MyProject2/Content/Blueprint/Camera_widget.uasset'
+[2022.04.05-20.16.00:475][ 10]AssetCheck: New page: Asset Save: Camera_widget
+[2022.04.05-20.16.00:475][ 10]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/Camera_widget.Camera_widget
+[2022.04.05-20.16.04:789][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
